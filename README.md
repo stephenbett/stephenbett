@@ -1,6 +1,6 @@
 <!-- Banner — replace the URL below once you have your generated image -->
 <p align="center">
-  <img src="https://your-banner-image-url-here.png" alt="Stephen Bett — Full-Stack Engineer" width="100%" />
+  <img src="Github.png" alt="Stephen Bett — Full-Stack Engineer" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Stephen Kiprop Bett</h1>
