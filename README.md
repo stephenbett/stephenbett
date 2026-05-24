@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About me
 
-Full-Stack Software Engineer with **3+ years** building scalable enterprise systems across fintech, government, and retail. I design clean, modular architectures — from React frontends to Python ML pipelines and event-driven backends using Kafka and RabbitMQ.
+Full-Stack Software Engineer with **4+ years** building scalable enterprise systems across fintech, government, and retail. I design clean, modular architectures — from React frontends to Python ML pipelines and event-driven backends using Kafka and RabbitMQ.
 
 My work spans payment integrations (M-Pesa, eCitizen, KRA iTax), distributed systems, and real-time platforms used at a national scale.
 
