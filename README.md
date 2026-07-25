@@ -170,8 +170,12 @@ to deployed production infrastructure with full observability.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephenbett&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenbett&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stephenbett&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenbett&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=stephenbett&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
